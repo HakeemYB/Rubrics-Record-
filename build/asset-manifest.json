@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7068eea2.css",
+    "main.js": "/static/js/main.20936f58.js",
+    "static/media/mainimga.png": "/static/media/mainimga.30945e9c0d3e693d3306.png",
+    "static/media/img0.png": "/static/media/img0.87f322f5de155cd9a6f5.png",
+    "static/media/img1.png": "/static/media/img1.05b64f92268d2bb5f06f.png",
+    "static/media/akueblogo.png": "/static/media/akueblogo.e440c85adcbb8f0e2459.png",
+    "static/media/plus.png": "/static/media/plus.f5d4d283910a71769470.png",
+    "static/media/pakimg.png": "/static/media/pakimg.80f97729116e6fd8bb4c.png",
+    "static/media/missa.png": "/static/media/missa.ba2bd8d8458c1b9364c0.png",
+    "index.html": "/index.html",
+    "static/media/delete.svg": "/static/media/delete.c184eb9e41969d49b9cae112eb516337.svg",
+    "main.7068eea2.css.map": "/static/css/main.7068eea2.css.map",
+    "main.20936f58.js.map": "/static/js/main.20936f58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7068eea2.css",
+    "static/js/main.20936f58.js"
+  ]
+}
